@@ -1,0 +1,40 @@
+_repo: Derniers-Contes_12562
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rabbe, Félix
+    deathdate: 1900
+    gutenberg_agent_id: '4537'
+    url: http://www.gutenberg.org/2009/agents/4537
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- Horror
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12562'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- Translations into French.'
+- GITenberg
+tableOfContents: Le duc de l'omelette -- Le mille et deuxième conte de Schéherazade
+  -- Mellonta tauta -- Comment s'écrit un article à la Blackwood -- Le filouteria
+  considerée comme science exacte -- L'homme d'affaires -- L'ensevelissement prémature
+  -- Bon-Bon -- La cryptographie -- Du principe poétique -- Quelques secrets de la
+  prison du magazine.
+title: Derniers Contes
+url: http://www.gutenberg.org/ebooks/12562
