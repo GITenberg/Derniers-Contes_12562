@@ -1,11 +1,14 @@
 _repo: Derniers-Contes_12562
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Rabbe, Félix
     deathdate: 1900
     gutenberg_agent_id: '4537'
     url: http://www.gutenberg.org/2009/agents/4537
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12562#Derniers-Contes
 gutenberg_bookshelf:
 - FR Nouvelles
 - Horror
